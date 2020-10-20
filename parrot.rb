@@ -1,6 +1,6 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
-def parrot("Squawk!")
-  puts "Squawk!"
-  return
-end
+def parrot_ruby(squawk)
+  puts squawk 
+  return  
+end 
